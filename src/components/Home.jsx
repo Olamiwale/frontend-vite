@@ -5,8 +5,8 @@ export default function Home() {
   return (
     <div className='w-full justify-center flex flex-col items-center h-screen'>
 
-        <p className='text-[20px] uppercase'>Welcome to homepage</p>
-        
+        <p className='text-[20px] uppercase'>Welcome to homepage where we serve you better   </p>
+      
         <Outlet />
     </div>
   )
